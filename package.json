@@ -1,0 +1,22 @@
+{
+  "name": "learning-react",
+  "version": "0.0.1",
+  "description": "dreaming in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresin87/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "@andresin87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresin87/react/issues"
+  },
+  "homepage": "https://github.com/andresin87/react#readme"
+}
