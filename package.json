@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/andresin87/react/issues"
   },
-  "homepage": "https://github.com/andresin87/react#readme"
+  "homepage": "https://github.com/andresin87/react#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "gulp": "^3.9.1"
+  }
 }
